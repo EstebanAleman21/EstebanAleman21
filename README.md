@@ -21,7 +21,7 @@ I’m a passionate software engineering student, currently studying at Tecnológ
   Contributing to technical operations, solving real-world challenges in the tech industry.
   
 ### 🏆 Certifications
-- [Add your certifications here]
+- 
 
 ### 📞 Contact Information
 - [LinkedIn Link](https://www.linkedin.com/in/estebanaleman21/)
