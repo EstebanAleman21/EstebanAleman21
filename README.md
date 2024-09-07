@@ -24,10 +24,10 @@ I’m a passionate software engineering student, currently studying at Tecnológ
 - [Add your certifications here]
 
 ### 📞 Contact Information
-- [LinkedIn Link](#)
+- [LinkedIn Link](https://www.linkedin.com/in/estebanaleman21/)
 - [CV Download Link](#)
-- Phone: +[Your Phone Number]
-- Email: [Your Email Address]
+- Phone: +52 8114709545
+- Email: esteban21112002@gmail.com
 
 ### 👨‍👩‍👧‍👦 Personal Interests
 When I'm not coding, I enjoy staying active, spending time with friends & family, and keeping fit through exercise.
