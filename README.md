@@ -26,7 +26,8 @@ I’m a passionate software engineering student, currently studying at Tecnológ
 ### 🏆 Certifications
 - 
 
-### Extra information
+### 👤 Extra information
+
 - **Languages:**
   - Spanish (Native)
   - English (C2 - Advanced)
