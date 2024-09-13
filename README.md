@@ -53,4 +53,4 @@ When I'm not coding, I enjoy staying active, spending time with friends & family
 
 ---
 
-Thanks for stopping by my GitHub profile! Feel free to reach out if you'd like to connect.
+![Esteban's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstebanAleman21&show_icons=true&theme=radical)
