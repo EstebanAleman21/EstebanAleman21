@@ -26,6 +26,21 @@ I’m a passionate software engineering student, currently studying at Tecnológ
 ### 🏆 Certifications
 - 
 
+### Extra information
+- **Languages:**
+  - Spanish (Native)
+  - English (C2 - Advanced)
+  - German (B1 - Intermediate)
+  - French (A1 - Beginner)
+- **Courses (Coursera)**
+  - C++ - University of California
+  - Python - University of Michigan
+- **Soft Skills**
+  - Adaptable
+  - Hard-worker
+  - Understanding
+  - Negotiation advocate
+
 ### 📞 Contact Information
 - [LinkedIn Link](https://www.linkedin.com/in/estebanaleman21/)
 - [CV Download Link](#)
