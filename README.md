@@ -18,7 +18,10 @@ I’m a passionate software engineering student, currently studying at Tecnológ
 ### 💼 Experience
 - **Zebra Technologies**  
   _TechOps Intern | April 2024 - Present_  
-  Contributing to technical operations, solving real-world challenges in the tech industry.
+    - Led, managed, and developed an audit system project aimed at digitizing and aligning with Industry 4.0 standards.
+    - The main task was to transform the audit process from Excel sheets to a full web application, complete with admin dashboards and automatic reports, making over 20 LSS4.0 audits each month more efficient.
+    - Developed the system from the ground up to deployment using ReactJS, Python (FastAPI), and MongoDB.
+    - Collaborated with U.S.-based teams, managers, and Asian suppliers.
   
 ### 🏆 Certifications
 - 
