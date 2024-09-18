@@ -9,7 +9,7 @@ I’m a passionate software engineering student, currently studying at Tecnológ
 - **Full Stack Development**: Building and maintaining full stack applications.
   
 ### 📂 Projects
-- **Portfolio**: [Link to Portfolio](https://portfolio-eam.vercel.app/)
+- **Portfolio**: [Link to Portfolio](#)
   
 ### 🎓 Education
 - **Tecnológico de Monterrey**  
