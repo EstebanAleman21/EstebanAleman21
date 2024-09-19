@@ -24,7 +24,9 @@ I’m a passionate software engineering student, currently studying at Tecnológ
     - Collaborated with U.S.-based teams, managers, and Asian suppliers.
   
 ### 🏆 Certifications
-- 
+- Working on:
+- Meta frontend Developer professional certification
+- Meta backend Developer professional certification
 
 ### 👤 Extra information
 
