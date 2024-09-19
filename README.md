@@ -9,7 +9,7 @@ I’m a passionate software engineering student, currently studying at Tecnológ
 - **Full Stack Development**: Building and maintaining full stack applications.
   
 ### 📂 Projects
-- **Portfolio**: [Link to Portfolio](#)
+- **Portfolio**: [Link to Portfolio](https://portfolio-eam.vercel.app/)
   
 ### 🎓 Education
 - **Tecnológico de Monterrey**  
@@ -44,7 +44,7 @@ I’m a passionate software engineering student, currently studying at Tecnológ
 
 ### 📞 Contact Information
 - [LinkedIn Link](https://www.linkedin.com/in/estebanaleman21/)
-- [CV Download Link](#)
+- [CV Download Link](https://drive.google.com/file/d/1uRWu9LHRp_q27sjBow1tLkPKaoY9o1Qi/view?usp=sharing)
 - Phone: +52 8114709545
 - Email: esteban21112002@gmail.com
 
